@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,My name is Amindu Sathsara.
+Fullstack Developer
 I am passionate about learning new techologies and latest things every time.
  I am undergraduate student at Sabaragamuwa university Of Sri Lanka.
 
